@@ -1,0 +1,185 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\.cfefcf958762de63b0ffa32458bbba9d12099326-audit.json",
+    "files": [
+        {
+            "date": 1713852470860,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-23-04-12-success.log",
+            "hash": "100657bc1fa34e94051a1919a4881d405cd200df12901597d240ee5813ef8905"
+        },
+        {
+            "date": 1713866018435,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-23-04-15-success.log",
+            "hash": "1cea951df5533bf46a81e8505443a04e907f8a53b3d597f5fb80602591140961"
+        },
+        {
+            "date": 1713881171658,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-23-04-20-success.log",
+            "hash": "a2bc5cd8548224a9353023485ce11ddab385a1f04b97d8d56f41b0ed1a3072d3"
+        },
+        {
+            "date": 1713943099728,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-24-04-13-success.log",
+            "hash": "f421f1cbb683749086841f6f65680b60a511fee74989d57d1210a34eecb496d4"
+        },
+        {
+            "date": 1713953808961,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-24-04-16-success.log",
+            "hash": "6364b2b3730a46cabbdaf8b4346e8a09b23ae04e6d9d9eeb3480777151ea07bf"
+        },
+        {
+            "date": 1713963075961,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-24-04-18-success.log",
+            "hash": "e920deb230228702e301b5fcfed6e1ec9a01fc686393650d1901695646b2661d"
+        },
+        {
+            "date": 1713991076051,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-25-04-02-success.log",
+            "hash": "87f3c40e61fe1da82b2b367c6fae9d08bab4d0b77128d8162b7e28e8ec642fe5"
+        },
+        {
+            "date": 1714022184690,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-25-04-11-success.log",
+            "hash": "b5027cf2e85f3243afe4f419a6ba490559db6e36a92df5b873e266c5bf51c56d"
+        },
+        {
+            "date": 1714029040873,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-25-04-13-success.log",
+            "hash": "f68bc6b6b155560647dfe99d12c9b8ced980e4c2c678ead734bf73cfb472df30"
+        },
+        {
+            "date": 1714032112410,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-25-04-14-success.log",
+            "hash": "3b80f9b72e946dc166b3f175c525cf4e40d121bb9590be2586f37b2b49f364ff"
+        },
+        {
+            "date": 1714046790074,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-25-04-18-success.log",
+            "hash": "dadf747ea155c409bb901b53819346afa92d1af8ed77d442ebd02201060b506b"
+        },
+        {
+            "date": 1714130299925,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-26-04-17-success.log",
+            "hash": "5a58e7585b335172a235594b7e4c4f34470f939981fe1b720813a9f964333852"
+        },
+        {
+            "date": 1714141252265,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-26-04-20-success.log",
+            "hash": "8061cd15bbc2ecc427ef7888805e7bfde0747ad59736d27f4cedbc86e88dd5b8"
+        },
+        {
+            "date": 1714195780343,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-27-04-11-success.log",
+            "hash": "0cc2a9ea731dc3853deee39681a2545d5867c933a7b1f2fe7cf743ad6c940779"
+        },
+        {
+            "date": 1714200762185,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-27-04-12-success.log",
+            "hash": "13b2d079928ddf8a32b6cd9070db34582edf7b02d7437ce96e16712b25c5eaa0"
+        },
+        {
+            "date": 1714209429461,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-27-04-15-success.log",
+            "hash": "b1eeba92306a5b469abfbef2c5ca0238e09a44b297fe2847fb8b06255f0c9767"
+        },
+        {
+            "date": 1714222675758,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-27-04-18-success.log",
+            "hash": "44a16ef0fa6c63475a37e466596e7ee64e56fa63e7adbdbe2c6b4396a50b2437"
+        },
+        {
+            "date": 1714223777893,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-27-04-19-success.log",
+            "hash": "fb29e45cb49edf6a127f856289f9e2e9482cd165131f7b05f4cfbb26d3e1e460"
+        },
+        {
+            "date": 1714226405889,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-27-04-20-success.log",
+            "hash": "c9b42ec25184c529c77074847bcebdf8212fdc61fd569d7b31702095851a1c94"
+        },
+        {
+            "date": 1714284080669,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-28-04-12-success.log",
+            "hash": "cb35b901d8bac929120237817d491eecca559602247be06030687d3f850c9503"
+        },
+        {
+            "date": 1714291492148,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-28-04-14-success.log",
+            "hash": "c7701dcaf98974d72765b926f569afb78425789a05ee05441384e28f7f84692f"
+        },
+        {
+            "date": 1714302512603,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-28-04-17-success.log",
+            "hash": "2f5b3a706743b8dee68ba9f1976dc60114a515b4fee82c96a362a20dc9614367"
+        },
+        {
+            "date": 1714322870895,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-28-04-22-success.log",
+            "hash": "84eb2f1d6dac63f291a98be9b039dc4ab7d4ad1f90281a17ef86381fe03351ea"
+        },
+        {
+            "date": 1714369402203,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-29-04-11-success.log",
+            "hash": "18b432230ca47b92dfa55288829ce7afe12ad72c1d34748a990625a47c59ef56"
+        },
+        {
+            "date": 1714370401831,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-29-04-12-success.log",
+            "hash": "0c8bee4cf444766c018e39a7b03d0bb7b51a52b1e0db591f7074be1f92861b99"
+        },
+        {
+            "date": 1714375388301,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-29-04-13-success.log",
+            "hash": "66c0e1a7c3e77ba09a9ccd83f3d20b863722fedb06ed9e833e86737897018279"
+        },
+        {
+            "date": 1714379862781,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-29-04-14-success.log",
+            "hash": "588e8301e1ca531ceea51e5d60cb92eae721defd1d96bee7f4c853664093e966"
+        },
+        {
+            "date": 1714388056210,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-29-04-16-success.log",
+            "hash": "5aceb0a4f25f0acdf4c0b6d76dd2c5c79a8ed148e67c6a04da3cd8ed2bdfffbb"
+        },
+        {
+            "date": 1714459538901,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-30-04-12-success.log",
+            "hash": "b51b0ac725dadfc972b9a43f8dbc207ee3c035678119d80f4fe729925b2c8b14"
+        },
+        {
+            "date": 1714460623590,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-30-04-13-success.log",
+            "hash": "e662220c54e40b556fb8430cdb51d3396aa6406bf34c9f2364710c71a8cc5bec"
+        },
+        {
+            "date": 1714474076942,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-30-04-16-success.log",
+            "hash": "6aead5e2e971266ca8fa168153c5c5a9dd61dfa34ca4888698787d91379c703f"
+        },
+        {
+            "date": 1714502751534,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-01-05-00-success.log",
+            "hash": "662921109411ad5bb261a97d8302ae8404a7b66cb5e59709da85aed0becdc90d"
+        },
+        {
+            "date": 1714544847473,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-01-05-12-success.log",
+            "hash": "3b82b9ed7556ca2a4ca788dbac90683cb2d344fd4039ad598e1613d6aaa466f7"
+        },
+        {
+            "date": 1714562766771,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-01-05-17-success.log",
+            "hash": "071e501e5d0efa2e683620d646ed561d73a2d9613dafdd9f0affab0dbafe76f8"
+        },
+        {
+            "date": 1714565135544,
+            "name": "C:\\Users\\mizan\\Desktop\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-01-05-18-success.log",
+            "hash": "21b582409776e81fde06a5a6c178506fbe4c50da93e4032b36e9492ac6f3d6ba"
+        }
+    ],
+    "hashType": "sha256"
+}

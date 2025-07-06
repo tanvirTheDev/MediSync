@@ -1,0 +1,7 @@
+Sun Jul 06 2025 22:55:5 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Can't reach database server at `ep-floral-truth-a5fecnik-pooler.us-east-2.aws.neon.tech`:`5432`
+
+Please make sure your database server is running at `ep-floral-truth-a5fecnik-pooler.us-east-2.aws.neon.tech`:`5432`.
