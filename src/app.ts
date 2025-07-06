@@ -16,6 +16,7 @@ app.use(
       'http://localhost:3000',
       'http://localhost:3001',
       'http://192.168.1.100:3000',
+      'https://medi-sync-lake.vercel.app',
     ],
     credentials: true,
   }),
