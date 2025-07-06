@@ -35,6 +35,14 @@ app.get('/test', async (req: Request, res: Response) => {
   });
 });
 
+app.get('/', async (req: Request, res: Response) => {
+  res.status(200).json({
+    message: 'MediSync Server is running!',
+    status: 'OK',
+    timestamp: new Date().toISOString(),
+  });
+});
+
 // ...existing code...
 app.use('/api/video-call', videoCallRoutes);
 
